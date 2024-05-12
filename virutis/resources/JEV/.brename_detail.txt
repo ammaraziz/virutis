@@ -1,0 +1,15 @@
+JEVGT1.bed	_shenwei356-brename_	JEV1.bed
+JEVGT1.fasta	_shenwei356-brename_	JEV1.fasta
+JEVGT1.primers.fasta	_shenwei356-brename_	JEV1.primers.fasta
+JEVGT2.bed	_shenwei356-brename_	JEV2.bed
+JEVGT2.fasta	_shenwei356-brename_	JEV2.fasta
+JEVGT2.primers.fasta	_shenwei356-brename_	JEV2.primers.fasta
+JEVGT3.bed	_shenwei356-brename_	JEV3.bed
+JEVGT3.fasta	_shenwei356-brename_	JEV3.fasta
+JEVGT3.primers.fasta	_shenwei356-brename_	JEV3.primers.fasta
+JEVGT4.bed	_shenwei356-brename_	JEV4.bed
+JEVGT4.fasta	_shenwei356-brename_	JEV4.fasta
+JEVGT4.primers.fasta	_shenwei356-brename_	JEV4.primers.fasta
+JEVGT5.bed	_shenwei356-brename_	JEV5.bed
+JEVGT5.fasta	_shenwei356-brename_	JEV5.fasta
+JEVGT5.primers.fasta	_shenwei356-brename_	JEV5.primers.fasta
