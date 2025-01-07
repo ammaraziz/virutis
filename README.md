@@ -5,6 +5,8 @@ Created by Verity Hill and Chrispin Chaguza (Grubaugh Lab) - Reskinned by Ammar 
 *Note:* Most of the instructions below are incomplete or wrong due to the changes from the original 
 pipeline
 
+---
+
 This pipeline takes raw Illumina read data in the form of fastq files, maps them against provided bed files and then provides a series of outputs for further analysis including consensus sequences. 
 The following pipeline works with ONT data: https://github.com/josephfauver/DENV_MinION_Script
 
